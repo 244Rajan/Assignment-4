@@ -1,0 +1,26 @@
+[
+    {
+      "set_num": "10242",
+      "name": "Cafe Corner",
+      "img_url": "https://example.com/cafe-corner.jpg",
+      "theme": "Town",
+      "year": 2007,
+      "num_parts": 2056
+    },
+    {
+      "set_num": "10179",
+      "name": "Ultimate Collector's Millennium Falcon",
+      "img_url": "https://example.com/millennium-falcon.jpg",
+      "theme": "Star Wars",
+      "year": 2007,
+      "num_parts": 5195
+    },
+    {
+      "set_num": "10228",
+      "name": "Monster Fighters Haunted House",
+      "img_url": "https://example.com/haunted-house.jpg",
+      "theme": "Monster Fighters",
+      "year": 2012,
+      "num_parts": 2064
+    }
+  ]

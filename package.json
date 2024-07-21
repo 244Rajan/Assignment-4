@@ -1,0 +1,13 @@
+{
+    "name": "web322-assignment4",
+    "version": "1.0.0",
+    "scripts": {
+  "tw:build": "npx tailwindcss -i public/styles/main.css -o public/styles/main.css"
+},
+    "dependencies": {
+        "axios": "^1.7.2",
+        "ejs": "^3.1.6",
+        "express": "^4.17.1",
+        "tailwindcss": "^3.0.2"
+    }
+}
