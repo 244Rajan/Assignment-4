@@ -10,7 +10,7 @@
 *,
 ::before,
 ::after {
-  box-sizing: border-box;
+  box-sizing: border-box; /* Keeps the layout consistent across browsers */
   /* 1 */
   border-width: 0;
   /* 2 */
